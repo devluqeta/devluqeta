@@ -54,10 +54,3 @@ Essas são as linguagens que mais utilizo no meu dia a dia:
 
 ---
 
-## Vamos conversar?
-
-📫 Você pode me encontrar em:
-
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Twitter](https://twitter.com/seu-usuario)
-- [Email](mailto:seu-email@example.com)
