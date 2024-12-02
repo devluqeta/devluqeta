@@ -50,7 +50,7 @@ Essas são as linguagens que mais utilizo no meu dia a dia:
 
 ## Contribuições no GitHub
 
-![Lucas's Contributions](https://github-readme-streak-stats.herokuapp.com/?user=devluqeta&theme=radical)
+![Lucas's Contributions](https://github-readme-streak-stats.herokuapp.com/?username=devluqeta&theme=radical)
 
 ---
 
