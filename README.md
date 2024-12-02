@@ -47,10 +47,3 @@ Essas são as linguagens que mais utilizo no meu dia a dia:
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devluqeta&langs_count=10&layout=compact&theme=radical)
 
 ---
-
-## Contribuições no GitHub
-
-![Lucas's Contributions](https://github-readme-streak-stats.herokuapp.com/?username=devluqeta&theme=radical)
-
----
-
