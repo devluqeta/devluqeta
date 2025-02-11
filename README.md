@@ -4,7 +4,7 @@
 
 - 💻 Estudante Técnico de **Análise e Desenvolvimento de Sistemas** - ETEC
 - 🤓 Aprendendo **PHP**, **SQL**, **React Native** e **Cibersegurança**
-- 😁 Trabalho atualmente como e **Suporte TI** / **Desenvolvimento de Software**
+- 😁 Trabalho atualmente como **Suporte TI**
 - 🤔 Tenho conhecimentos básicos em **Front-End** e **Back-End**
 
 ---
