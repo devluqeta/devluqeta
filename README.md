@@ -42,8 +42,3 @@ Essas são as linguagens que mais utilizo no meu dia a dia:
 
 ---
 
-## Linguagens que mais uso
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devluqeta&langs_count=10&layout=compact&theme=radical)
-
----
