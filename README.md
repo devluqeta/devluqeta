@@ -5,7 +5,7 @@
 - 💻 Estudante Técnico de **Análise e Desenvolvimento de Sistemas** - ETEC
 - 🤓 Aprendendo **JavaScript**, **Dart**, **Redes**, **Mikrotik** e **Cibersegurança**
 - 😁 Trabalho atualmente como **Suporte TI**
-- 🤔 Tenho conhecimentos básicos em **Front-End** e **Back-End** **Redes de Computadores - Básico**
+- 🤔 Tenho conhecimentos básicos em **Front-End** **/** **Back-End** e **Redes de Computadores - Básico**
 
 ---
 
