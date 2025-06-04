@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 - 💻 Estudante Técnico de **Análise e Desenvolvimento de Sistemas** - ETEC
-- 🤓 Aprendendo **PHP**, **SQL**, **React Native** e **Cibersegurança**
+- 🤓 Aprendendo **PHP**, **JavaScript** **Dart**, **Redes**, **Mikrotik** e **Cibersegurança**
 - 😁 Trabalho atualmente como **Suporte TI**
 - 🤔 Tenho conhecimentos básicos em **Front-End** e **Back-End**
 
