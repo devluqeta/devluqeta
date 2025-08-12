@@ -20,6 +20,7 @@ Aqui estão algumas das linguagens que eu conheço:
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23000?style=flat&logo=sql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB?style=flat&logo=react&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-%2361DAFB?style=flat&logo=react&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat&logo=csharp&logoColor=white)
 
 ---
