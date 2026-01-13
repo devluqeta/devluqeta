@@ -36,10 +36,3 @@ Essas são as linguagens que mais utilizo no meu dia a dia:
 ![SQL](https://img.shields.io/badge/SQL-%23000?style=flat&logo=sql&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-![Lucas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devluqeta&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
----
-
