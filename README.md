@@ -19,6 +19,14 @@
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devluqeta/devluqeta/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 # 🎓 Formação
 
 ![ETEC](https://img.shields.io/badge/Técnico_Desenvolvimento_de_Sistemas-ETEC-orange?style=for-the-badge)
