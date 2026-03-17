@@ -25,6 +25,13 @@
   <img src="https://raw.githubusercontent.com/devluqeta/devluqeta/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+<p align="center">
+  <sub>
+    🟩 Cada quadrado representa um dia de contribuição <br>
+    🐍 A cobrinha percorre seu histórico no GitHub
+  </sub>
+</p>
+
 ---
 
 # 🎓 Formação
