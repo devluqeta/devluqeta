@@ -14,20 +14,17 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="24"> Estatísticas GitHub
 
 <p align="center">
-  
-<a href="https://github.com/devluqeta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devluqeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-</a>
 
-<a href="https://github.com/devluqeta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devluqeta&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
-</a>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devluqeta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devluqeta&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devluqeta&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devluqeta&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 # <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="24"> Contribuições
